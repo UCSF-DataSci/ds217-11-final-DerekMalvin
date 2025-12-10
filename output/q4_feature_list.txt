@@ -1,0 +1,7 @@
+wind_speed_squared
+humidity_times_windspeed
+pressure_change_3h
+humidity_change_3h
+wind_speed_change_3h
+rain_rolling_mean_24h
+humidity_rolling_mean_24h

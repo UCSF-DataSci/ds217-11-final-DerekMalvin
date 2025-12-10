@@ -1,0 +1,17 @@
+KEY PATTERNS IDENTIFIED
+=======================
+
+TEMPORAL TRENDS:
+- Air Temperature shows a clear annual seasonal cycle with higher values during warmer months and lower values during colder months.
+- No long-term trends can be established from the monthly averages alone.
+- Wind variables all seem to have a very strong correlation with one another.
+
+SEASONAL PATTERNS:
+- The monthly averages show that there is a seasonal pattern evident, peaking in the summer months and going to the lowest points in winter months.
+- Temperatures are highest in summer months (around July–August).
+- Temperatures are lowest in winter months (January–February & December).
+
+CORRELATIONS:
+- Rain-related variables are showing a weak correlation with one another.
+- Wind-related variables are all showing a positve correlation with one another
+- There is a strong correlation between Air Temperature and Wet Bulb Temperature.

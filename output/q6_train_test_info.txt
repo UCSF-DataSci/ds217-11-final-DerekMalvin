@@ -1,0 +1,13 @@
+TRAIN/TEST SPLIT INFORMATION
+==========================
+
+Split Method: Temporal (80/20 split by time)
+
+Training Set Size: 157,057 samples
+Test Set Size: 39,266 samples
+
+Training Date Range: 2015-04-25 09:00:00 to 2023-07-06 02:00:00
+Test Date Range: 2023-07-06 03:00:00 to 2025-12-03 15:00:00
+
+Number of Features: 20
+Target Variable: Air Temperature

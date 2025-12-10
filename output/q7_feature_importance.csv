@@ -1,0 +1,21 @@
+feature,importance
+Wet Bulb Temperature,0.9337611
+Humidity,0.035745803
+Battery Life,0.008706967
+Station Name_Foster Weather Station,0.004344436
+Total Rain,0.0032206734
+Barometric Pressure,0.002463748
+Heading,0.0019260199
+Wind Direction,0.0018504788
+Solar Radiation,0.001849874
+Maximum Wind Speed,0.0016918572
+pressure_change_3h,0.0012478007
+humidity_times_windspeed,0.0011050565
+Wind Speed,0.00075763254
+humidity_change_3h,0.00068251265
+wind_speed_change_3h,0.0006460123
+Precipitation Type,0.0
+Interval Rain,0.0
+wind_speed_squared,0.0
+Rain Intensity,0.0
+Station Name_Oak Street Weather Station,0.0
